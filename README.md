@@ -27,4 +27,6 @@
 
 [3. 구현을 위한 기초지식](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
-[구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
+* [구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
+
+[4. 선형회귀로 이해하는 기계학습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
