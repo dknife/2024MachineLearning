@@ -35,5 +35,5 @@
 
 * [선형회귀 동작 연습](https://colab.research.google.com/drive/1f_ghSH6cAQRQ9mQW9kGuE1A2Vw3QbDXZ?usp=sharing)
 
-* [좋은 가설 찾기]()
+* [좋은 가설 찾기](https://colab.research.google.com/drive/15bq6284FBBWlsEYydnBKX1Urg84KkTZO#scrollTo=vZ1ko7T6Hfoo)
 
