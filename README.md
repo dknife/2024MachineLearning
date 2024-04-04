@@ -27,12 +27,16 @@
 
 [3. 구현을 위한 기초지식](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
+* ### 실습
+
 * [구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
 
 * [판다스 연습](https://colab.research.google.com/drive/1iRBXjqZJxPVKLBnvQVY4nSN_bQP64RDD)
 
 [4. 선형회귀로 이해하는 기계학습](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/04%EC%9E%A5_%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)
 
+* ### 실습
+  
 * [선형회귀 동작 연습](https://colab.research.google.com/drive/1f_ghSH6cAQRQ9mQW9kGuE1A2Vw3QbDXZ?usp=sharing)
 
 * [좋은 가설 찾기 - bruteforce / gradient descent](https://colab.research.google.com/drive/15bq6284FBBWlsEYydnBKX1Urg84KkTZO#scrollTo=vZ1ko7T6Hfoo)
