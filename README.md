@@ -41,3 +41,8 @@
 
 * [좋은 가설 찾기 - bruteforce / gradient descent](https://colab.research.google.com/drive/15bq6284FBBWlsEYydnBKX1Urg84KkTZO#scrollTo=vZ1ko7T6Hfoo)
 
+[5. 다변량 선형회귀]
+
+* ### 실습
+  
+* [선형회귀 종합 실습](https://colab.research.google.com/drive/1Wy5TNdXTph2k88fXd9EvIWO1e8RYgvI4?usp=sharing)
