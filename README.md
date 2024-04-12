@@ -46,3 +46,5 @@
 * ### 실습
   
 * [선형회귀 종합 실습](https://colab.research.google.com/drive/1Wy5TNdXTph2k88fXd9EvIWO1e8RYgvI4?usp=sharing)
+
+[6. 분류와 군집화]()
