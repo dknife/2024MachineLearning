@@ -52,3 +52,9 @@
 * [분류와 군집화 실습](https://colab.research.google.com/drive/1eCoM731zKzv5Oh6K4sBp_bP4jQHxMKhm?usp=sharing)
 
 [7. 다양한 머신러닝 기법](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/06%EC%9E%A5_%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B2%95%EB%93%A4%20-%20%EB%8B%A4%ED%95%AD%20%ED%9A%8C%EA%B7%80%2C%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%2C%20SVM.pdf)
+
+* ### 실습
+
+* [다항회귀](https://colab.research.google.com/drive/1PuYXGVcc3EpAqbmYcoYLI3-SBAxS33gt)
+* [의사결정트리]()
+* [SVM]()
