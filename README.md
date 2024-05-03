@@ -59,4 +59,4 @@
 
 * [다항회귀](https://colab.research.google.com/drive/1PuYXGVcc3EpAqbmYcoYLI3-SBAxS33gt)
 * [의사결정트리](https://colab.research.google.com/drive/1jlCqE6Rv9IYdlFgzlCCj-GI9bRdA8u95?usp=sharing)
-* [SVM]()
+* [SVM](https://colab.research.google.com/drive/1N-QPYb8jV8d9JjHpmapWeanBGVqhwewo?usp=sharing)
