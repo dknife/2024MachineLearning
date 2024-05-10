@@ -68,7 +68,8 @@
 
 ## [8. 인공신경망](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%EB%8F%8C%ED%8C%8C%EA%B5%AC.pdf)
 
-
+* ### 실습 1
+* [퍼셉트론 기초](https://colab.research.google.com/drive/1_TJxAWlp35YxEKmclpo8VEBNfrSK3AR7?usp=sharing)
 
 
 
