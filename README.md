@@ -61,8 +61,10 @@
 * [의사결정트리](https://colab.research.google.com/drive/1jlCqE6Rv9IYdlFgzlCCj-GI9bRdA8u95?usp=sharing)
 * [SVM](https://colab.research.google.com/drive/1N-QPYb8jV8d9JjHpmapWeanBGVqhwewo?usp=sharing)
 * 
-## [8. 다양한 머신러닝 기법]
-
-* ### 실습
+* ### 실습 2
 
 * [다항회귀와 커널](https://colab.research.google.com/drive/1V5DMqY8aJhTTlAChl2H5iB18sYtp5o8I#scrollTo=TtAbrNit3_HZ)
+
+* [SVM을 이용한 얼굴 찾기](https://colab.research.google.com/drive/1qyk4TedrNAN4hLx7b-Pyr33K6nCFDE7u?usp=sharing)
+
+[]
