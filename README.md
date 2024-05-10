@@ -82,4 +82,6 @@
 
 
 
-https://colab.research.google.com/drive/1SHXeoy0JjaNaxWOo5vAtAEhWfMldNAZh#scrollTo=K-ZLahAniaeN
+MP - https://colab.research.google.com/drive/1SHXeoy0JjaNaxWOo5vAtAEhWfMldNAZh#scrollTo=K-ZLahAniaeN
+
+ANN - https://colab.research.google.com/drive/1Q_jn113g1W2VdeV04iDsuydxD5Gu8xBT
