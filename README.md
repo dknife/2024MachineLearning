@@ -60,11 +60,10 @@
 * [다항회귀](https://colab.research.google.com/drive/1PuYXGVcc3EpAqbmYcoYLI3-SBAxS33gt)
 * [의사결정트리](https://colab.research.google.com/drive/1jlCqE6Rv9IYdlFgzlCCj-GI9bRdA8u95?usp=sharing)
 * [SVM](https://colab.research.google.com/drive/1N-QPYb8jV8d9JjHpmapWeanBGVqhwewo?usp=sharing)
-* 
+  
 * ### 실습 2
 
 * [다항회귀와 커널](https://colab.research.google.com/drive/1V5DMqY8aJhTTlAChl2H5iB18sYtp5o8I#scrollTo=TtAbrNit3_HZ)
-
 * [SVM을 이용한 얼굴 찾기](https://colab.research.google.com/drive/1qyk4TedrNAN4hLx7b-Pyr33K6nCFDE7u?usp=sharing)
 
-[]
+## [8. 인공신경망](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%EB%8F%8C%ED%8C%8C%EA%B5%AC.pdf)
