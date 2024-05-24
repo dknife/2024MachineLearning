@@ -71,6 +71,7 @@
 * ### 실습 1
 * [퍼셉트론 기초](https://colab.research.google.com/drive/1_TJxAWlp35YxEKmclpo8VEBNfrSK3AR7?usp=sharing)
 
+* [비선형회귀를 위한 다층 퍼셉트론](https://colab.research.google.com/drive/1T-N-DBjvMd4_0SkLa2-PVC3_5Wjmw7QK?usp=sharing)
 
 ## [9. 고급 인공신경망](https://github.com/dknife/2024MachineLearning/blob/main/LectureNotes/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
 
