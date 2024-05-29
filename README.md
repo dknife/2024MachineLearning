@@ -79,6 +79,6 @@
 
 * 참고 - 공유되지 않은 상태
 
-[advanced ANN](https://colab.research.google.com/drive/1935nL5XtxNeY21aG2ufZyv_1PJaS4GkZ#scrollTo=Ve5dO9hCsWns)
+  * [advanced ANN](https://colab.research.google.com/drive/1935nL5XtxNeY21aG2ufZyv_1PJaS4GkZ#scrollTo=Ve5dO9hCsWns)
 
-[Fashion MNIST](https://colab.research.google.com/drive/1mzNgenXVOI8ITXlNkZ_gDQtq202LUDtn#scrollTo=Zm1MutpoxnlZ)
+  * [Fashion MNIST](https://colab.research.google.com/drive/1mzNgenXVOI8ITXlNkZ_gDQtq202LUDtn#scrollTo=Zm1MutpoxnlZ)
