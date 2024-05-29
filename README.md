@@ -77,7 +77,6 @@
 
 
 
+[advanced ANN](https://colab.research.google.com/drive/1935nL5XtxNeY21aG2ufZyv_1PJaS4GkZ#scrollTo=Ve5dO9hCsWns)
 
-
-
-ANN - https://colab.research.google.com/drive/1Q_jn113g1W2VdeV04iDsuydxD5Gu8xBT
+[Fashion MNIST](https://colab.research.google.com/drive/1mzNgenXVOI8ITXlNkZ_gDQtq202LUDtn#scrollTo=Zm1MutpoxnlZ)
