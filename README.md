@@ -77,8 +77,8 @@
 
 ### 실습
 
-[MNIST](https://colab.research.google.com/drive/1YVyC_SrqcjN8oa-AdcRW9LyNyVzkY2kK?usp=sharing)
-[Fashion MNIST](https://colab.research.google.com/drive/19gQYkfoHTBncGURzaohj4C91E5rF_9by?usp=sharing)
+* [MNIST](https://colab.research.google.com/drive/1YVyC_SrqcjN8oa-AdcRW9LyNyVzkY2kK?usp=sharing)
+* [Fashion MNIST](https://colab.research.google.com/drive/19gQYkfoHTBncGURzaohj4C91E5rF_9by?usp=sharing)
 
 
 ## [10. 합성곱 신경망 - 새로운 돌파구](https://github.com/dknife/2024MachineLearning/blob/main/LectureNotes/09%EC%9E%A5_%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B6%80%ED%9D%A5%EC%9D%98%20%EC%8B%9C%EC%9E%91%2C%20%ED%95%A9%EC%84%B1%EA%B3%B1%20%EC%8B%A0%EA%B2%BD%EB%A7%9D.pdf)
